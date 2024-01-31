@@ -1,0 +1,10 @@
+{"intents":     [
+    {   "tag":     "Chào hỏi",
+        "patterns":     ["xin chào","chào","hi"],
+        "responses":    ["xin chào {user_name}"]
+    },
+    {   "tag":     "",
+        "patterns":     [],
+        "responses":    []
+    }
+]}
